@@ -2,8 +2,6 @@
 
 A clean, responsive dashboard template with dark/light theme support, sidebar navigation, and content switching functionality.
 
-![Dashboard Preview](preview.png)
-
 ## Features
 
 - **Responsive Design**: Adapts to different screen sizes
